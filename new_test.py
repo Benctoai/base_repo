@@ -4,6 +4,3 @@ print(test)
 jfeljflejfekl
 
 
-jfkejflek
-fklejfeljfkel
-fjeklfjeljfejfelkfjekljel
